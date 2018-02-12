@@ -7,5 +7,5 @@ This is a routines management sample app, with all kind of testing applied.
 [![CircleCI](https://circleci.com/gh/eugenia4v/spring-5-mvc-boot-testing.svg?style=svg)](https://circleci.com/gh/eugenia4v/spring-5-mvc-boot-testing)
 
 ### TravisCI
-[![Travis](https://travis-ci.org/eugenia4v/spring-5-mvc-boot-testing.svg?branch=master](https://travis-ci.org/eugenia4v/spring-5-mvc-boot-testing)
 
+[![Build Status](https://travis-ci.org/eugenia4v/spring-5-mvc-boot-testing.svg?branch=master)](https://travis-ci.org/eugenia4v/spring-5-mvc-boot-testing)
